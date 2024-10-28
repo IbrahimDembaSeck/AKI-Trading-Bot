@@ -3,8 +3,8 @@ import pandas_ta as ta
 import os
 
 # Paths for raw and processed data
-raw_data_dir = r"C:\Users\BCPLACE\Documents\MEGA\WI Studium\3. Semester\Unternehmenssoftware\AKI-Trading-Bot\data\raw\crypto"
-processed_data_dir = r"C:\Users\BCPLACE\Documents\MEGA\WI Studium\3. Semester\Unternehmenssoftware\AKI-Trading-Bot\data\processed"
+raw_data_dir = r"/data/raw/crypto"
+processed_data_dir = r"/data/processed"
 os.makedirs(processed_data_dir, exist_ok=True)
 
 # List of cryptocurrency symbols to process
