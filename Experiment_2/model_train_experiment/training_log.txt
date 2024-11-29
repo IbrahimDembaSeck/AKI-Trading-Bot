@@ -1,0 +1,54 @@
+Epoch 1/50 -> Train Loss: 0.0101, Val Loss: 0.0118, Train MAE: 0.0711, Val MAE: 0.0947
+Epoch 2/50 -> Train Loss: 0.0032, Val Loss: 0.0073, Train MAE: 0.0417, Val MAE: 0.0719
+Epoch 3/50 -> Train Loss: 0.0025, Val Loss: 0.0275, Train MAE: 0.0358, Val MAE: 0.1216
+Epoch 4/50 -> Train Loss: 0.0023, Val Loss: 0.0136, Train MAE: 0.0338, Val MAE: 0.0891
+Epoch 5/50 -> Train Loss: 0.0021, Val Loss: 0.0291, Train MAE: 0.0317, Val MAE: 0.1354
+Epoch 6/50 -> Train Loss: 0.0019, Val Loss: 0.0408, Train MAE: 0.0300, Val MAE: 0.1597
+Epoch 7/50 -> Train Loss: 0.0019, Val Loss: 0.0492, Train MAE: 0.0294, Val MAE: 0.1821
+Epoch 8/50 -> Train Loss: 0.0018, Val Loss: 0.0360, Train MAE: 0.0280, Val MAE: 0.1479
+Epoch 9/50 -> Train Loss: 0.0017, Val Loss: 0.0527, Train MAE: 0.0282, Val MAE: 0.1888
+Epoch 10/50 -> Train Loss: 0.0018, Val Loss: 0.0386, Train MAE: 0.0289, Val MAE: 0.1514
+Epoch 11/50 -> Train Loss: 0.0017, Val Loss: 0.0594, Train MAE: 0.0282, Val MAE: 0.1917
+Epoch 12/50 -> Train Loss: 0.0015, Val Loss: 0.0554, Train MAE: 0.0253, Val MAE: 0.1908
+Epoch 13/50 -> Train Loss: 0.0015, Val Loss: 0.0571, Train MAE: 0.0253, Val MAE: 0.1900
+Epoch 14/50 -> Train Loss: 0.0014, Val Loss: 0.0651, Train MAE: 0.0246, Val MAE: 0.2019
+Epoch 15/50 -> Train Loss: 0.0013, Val Loss: 0.0622, Train MAE: 0.0239, Val MAE: 0.1950
+Epoch 16/50 -> Train Loss: 0.0013, Val Loss: 0.0828, Train MAE: 0.0236, Val MAE: 0.2393
+Epoch 17/50 -> Train Loss: 0.0014, Val Loss: 0.1077, Train MAE: 0.0234, Val MAE: 0.2703
+Epoch 18/50 -> Train Loss: 0.0013, Val Loss: 0.0803, Train MAE: 0.0228, Val MAE: 0.2349
+Epoch 19/50 -> Train Loss: 0.0012, Val Loss: 0.0892, Train MAE: 0.0226, Val MAE: 0.2487
+Epoch 20/50 -> Train Loss: 0.0011, Val Loss: 0.0868, Train MAE: 0.0218, Val MAE: 0.2376
+Epoch 21/50 -> Train Loss: 0.0013, Val Loss: 0.0865, Train MAE: 0.0235, Val MAE: 0.2417
+Epoch 22/50 -> Train Loss: 0.0013, Val Loss: 0.0802, Train MAE: 0.0236, Val MAE: 0.2284
+Epoch 23/50 -> Train Loss: 0.0012, Val Loss: 0.0821, Train MAE: 0.0225, Val MAE: 0.2370
+Epoch 24/50 -> Train Loss: 0.0012, Val Loss: 0.0945, Train MAE: 0.0212, Val MAE: 0.2513
+Epoch 25/50 -> Train Loss: 0.0010, Val Loss: 0.1040, Train MAE: 0.0203, Val MAE: 0.2680
+Epoch 26/50 -> Train Loss: 0.0011, Val Loss: 0.1061, Train MAE: 0.0219, Val MAE: 0.2623
+Epoch 27/50 -> Train Loss: 0.0010, Val Loss: 0.1065, Train MAE: 0.0200, Val MAE: 0.2703
+Epoch 28/50 -> Train Loss: 0.0011, Val Loss: 0.0949, Train MAE: 0.0211, Val MAE: 0.2475
+Epoch 29/50 -> Train Loss: 0.0010, Val Loss: 0.0736, Train MAE: 0.0197, Val MAE: 0.2100
+Epoch 30/50 -> Train Loss: 0.0010, Val Loss: 0.0917, Train MAE: 0.0201, Val MAE: 0.2434
+Epoch 31/50 -> Train Loss: 0.0012, Val Loss: 0.0958, Train MAE: 0.0219, Val MAE: 0.2521
+Epoch 32/50 -> Train Loss: 0.0011, Val Loss: 0.0876, Train MAE: 0.0213, Val MAE: 0.2376
+Epoch 33/50 -> Train Loss: 0.0009, Val Loss: 0.1019, Train MAE: 0.0187, Val MAE: 0.2551
+Epoch 34/50 -> Train Loss: 0.0009, Val Loss: 0.0898, Train MAE: 0.0180, Val MAE: 0.2397
+Epoch 35/50 -> Train Loss: 0.0008, Val Loss: 0.0944, Train MAE: 0.0173, Val MAE: 0.2452
+Epoch 36/50 -> Train Loss: 0.0009, Val Loss: 0.0887, Train MAE: 0.0191, Val MAE: 0.2344
+Epoch 37/50 -> Train Loss: 0.0008, Val Loss: 0.0901, Train MAE: 0.0182, Val MAE: 0.2417
+Epoch 38/50 -> Train Loss: 0.0010, Val Loss: 0.0978, Train MAE: 0.0209, Val MAE: 0.2482
+Epoch 39/50 -> Train Loss: 0.0008, Val Loss: 0.0910, Train MAE: 0.0180, Val MAE: 0.2348
+Epoch 40/50 -> Train Loss: 0.0009, Val Loss: 0.0885, Train MAE: 0.0192, Val MAE: 0.2311
+Epoch 41/50 -> Train Loss: 0.0007, Val Loss: 0.1024, Train MAE: 0.0169, Val MAE: 0.2557
+Epoch 42/50 -> Train Loss: 0.0007, Val Loss: 0.0995, Train MAE: 0.0170, Val MAE: 0.2515
+Epoch 43/50 -> Train Loss: 0.0008, Val Loss: 0.1036, Train MAE: 0.0178, Val MAE: 0.2560
+Epoch 44/50 -> Train Loss: 0.0007, Val Loss: 0.1164, Train MAE: 0.0167, Val MAE: 0.2755
+Epoch 45/50 -> Train Loss: 0.0009, Val Loss: 0.0916, Train MAE: 0.0191, Val MAE: 0.2443
+Epoch 46/50 -> Train Loss: 0.0007, Val Loss: 0.1026, Train MAE: 0.0167, Val MAE: 0.2514
+Epoch 47/50 -> Train Loss: 0.0009, Val Loss: 0.0803, Train MAE: 0.0189, Val MAE: 0.2205
+Epoch 48/50 -> Train Loss: 0.0006, Val Loss: 0.0986, Train MAE: 0.0151, Val MAE: 0.2459
+Epoch 49/50 -> Train Loss: 0.0006, Val Loss: 0.1134, Train MAE: 0.0156, Val MAE: 0.2715
+Epoch 50/50 -> Train Loss: 0.0007, Val Loss: 0.0887, Train MAE: 0.0167, Val MAE: 0.2284
+
+Bewertung auf den Testdaten...
+Test Loss: 2.0403
+Modell erfolgreich gespeichert unter: dual_attention_lstm.pth

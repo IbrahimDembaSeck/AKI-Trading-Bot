@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split
 import random
 import pickle
 import os
+import pandas as pd
 
 # Seed als Konstante
 SEED = 42
@@ -117,6 +118,21 @@ def main():
 
     # 4. Daten skalieren
     scaled_training_data, scaler = scale_data(training_data.values)
+
+    # Angenommen, `combined_data` ist der DataFrame mit den kombinierten Daten
+    # Skaliere die Daten
+    scaled_combined_data, scaler = scale_data(combined_data.values)
+
+    # Konvertiere die skalierten Daten zurück in einen DataFrame mit den gleichen Spalten
+    scaled_combined_df = pd.DataFrame(scaled_combined_data, columns=combined_data.columns, index=combined_data.index)
+
+    # Speichere die kombinierten Daten vor dem Skalieren
+    combined_data.to_csv("combined_data_before_scaling.csv")
+    print("Kombinierte Daten vor dem Skalieren gespeichert: combined_data_before_scaling.csv")
+
+    # Speichere die kombinierten Daten nach dem Skalieren
+    scaled_combined_df.to_csv("combined_data_after_scaling.csv")
+    print("Kombinierte Daten nach dem Skalieren gespeichert: combined_data_after_scaling.csv")
 
     # 5. Sequenzen erstellen
     X_train_full, y_train_full = create_sequences(scaled_training_data, sequence_length=30, num_features=scaled_training_data.shape[1])
