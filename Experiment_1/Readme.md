@@ -79,14 +79,6 @@ Hier wird als Basline der historische Durchnitt vom Bitcoin Preis ermittelt und 
 
 **Ergebnisse**
 
-Konvergenztabelle:
-            Metric         Value
-0  Predicted Value -22367.749589
-1     Actual Value  69482.468750
-2  Price Deviation -91850.218339
-3             RMSE  91850.218339
-4              RAE     24.278661
-Baseline (Durchschnitt historischer Preise): 65699.30
-Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17
+Die Ergebnisse vom Training und vom Experiment sind bitte von den jeweiligen Log-Dateien zu entnehmen.
 
 Man erhofft im nächsten Experiment eine klare Verbesserung zu sehen
