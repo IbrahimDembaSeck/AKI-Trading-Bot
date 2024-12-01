@@ -22,14 +22,8 @@ Wie im Experiment 1
 
 **Ergebnisse**
 
-VVorhergesagter Wert vor dem Entskalieren: 0.8770785927772522
-Vorhergessagter Wert für 02.11.2024 2024-11-01: 64121.86600623677 |E1:-22367.749589061877 |E2: 67278.63296482935
-Kaufpreis 2024-10-01: 60837.0078125
-Tatsächlicher Wert 2024-11-01: 69482.46875
-Preisunterschied: -5360.602743763229
-RMSE: 5360.60
-RAE: 1.42
-Baseline (Durchschnitt historischer Preise): 65699.30
-Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17
+Ergebnisse
+
+Die Ergebnisse vom Training und vom Experiment sind bitte von den jeweiligen Log-Dateien zu entnehmen, die im results_training_experiment Ordner sind.
 
 Im Vergleich zum Experiment 2 eine leichte verschlechterung von der Vorhersage.
