@@ -79,6 +79,6 @@ Hier wird als Basline der historische Durchnitt vom Bitcoin Preis ermittelt und 
 
 **Ergebnisse**
 
-Die Ergebnisse vom Training und vom Experiment sind bitte von den jeweiligen Log-Dateien zu entnehmen.
+Die Ergebnisse vom Training und vom Experiment sind bitte von den jeweiligen Log-Dateien zu entnehmen, die im results_training_experiment Ordner sind.
 
 Man erhofft im nächsten Experiment eine klare Verbesserung zu sehen

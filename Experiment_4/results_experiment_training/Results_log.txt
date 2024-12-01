@@ -1,0 +1,26 @@
+Vorhergesagter Wert vor dem Entskalieren: 0.7458347082138062
+Vorhergessagter Wert für 02.11.2024 2024-11-01: 54553.47849790002
+Kaufpreis 2024-10-01: 60837.0078125
+Tatsächlicher Wert 2024-11-01: 69482.46875
+Preisunterschied: -14928.990252099982
+RMSE: 14928.99
+RAE: 3.95
+Baseline (Durchschnitt historischer Preise): 65699.30
+Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17
+
+Ergebnisse vor Codeprobleme:
+
+Shape der kombinierten Daten mit Indikatoren: (3698, 20)
+Feature Corr_Gold entfernt: Korrelation unterhalb des Schwellenwerts (0.45)
+Feature Corr_Silver entfernt: Korrelation unterhalb des Schwellenwerts (0.45)
+Feature Corr_Gas entfernt: Korrelation unterhalb des Schwellenwerts (0.45)
+Feature Corr_FedFunds entfernt: Korrelation unterhalb des Schwellenwerts (0.45)
+Vorhergesagter Wert vor dem Entskalieren: 0.9013867378234863
+Vorhergessagter Wert für 02.11.2024 2024-11-01: 65894.0609712432
+Kaufpreis 2024-10-01: 60837.0078125
+Tatsächlicher Wert 2024-11-01: 69482.46875
+Preisunterschied: -3588.407778756795
+RMSE: 3588.41
+RAE: 0.95
+Baseline (Durchschnitt historischer Preise): 65699.30
+Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17

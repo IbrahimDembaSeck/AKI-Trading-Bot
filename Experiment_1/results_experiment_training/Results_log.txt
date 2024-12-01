@@ -1,0 +1,21 @@
+Vorhergesagter Wert vor dem Entskalieren: -0.30924805998802185
+Vorhergessagter Wert für 02.11.2024 2024-11-01: -22367.749589061877
+Kaufpreis 2024-10-01: 60837.0078125
+Tatsächlicher Wert 2024-11-01: 69482.46875
+Preisunterschied: -91850.21833906187
+RMSE: 91850.22
+RAE: 24.28
+Baseline (Durchschnitt historischer Preise): 65699.30
+Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17
+
+Ergebnis vor Codeprobleme:
+
+Vorhergesagter Wert vor dem Entskalieren: 1.0678821802139282
+Predicted value for 2024-11-01: 78032.47729793742
+Buy value for 2024-10-01: 60837.0078125
+Actual value for 2024-11-01: 69482.46875
+Price Deviation: 17195.469485437425
+RMSE: 8550.01
+RAE: 2.26
+Baseline (Durchschnitt historischer Preise): 65699.30
+Baseline-Deviation (Abweichung vom tatsächlichen Wert): -3783.17
