@@ -1,6 +1,6 @@
 # AKI-Trading-Bot
 
-TDieses Projekt wurde im Rahmen des Moduls "Anwendungen künstlicher Intelligenz" (AKI) erstellt. Es handelt sich um ein Deep-Learning-Projekt, das darauf abzielt, den zukünftigen Preis von Bitcoin (BTC) vorherzusagen.
+Dieses Projekt wurde im Rahmen des Moduls "Anwendungen künstlicher Intelligenz" (AKI) erstellt. Es handelt sich um ein Deep-Learning-Projekt, das darauf abzielt, den zukünftigen Preis von Bitcoin (BTC) vorherzusagen.
 
 Die Aufgabe in diesem Projekt besteht darin, zu bestimmen, ob es profitabel wäre, Bitcoin an einem bestimmten Tag zu kaufen, und nach 30 Tagen zu überprüfen, ob basierend auf der Vorhersage ein Gewinn erzielt werden konnte.
 
